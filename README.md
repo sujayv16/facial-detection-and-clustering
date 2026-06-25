@@ -3,6 +3,9 @@
 
 This repository contains three projects focused on face detection and clustering techniques.
 
+**demo:**
+https://www.youtube.com/watch?v=GV15a1s6oGQ
+
 **Clone repository:**
 ```bash
 git clone https://github.com/sujayv16/facial-detection-and-clustering.git
